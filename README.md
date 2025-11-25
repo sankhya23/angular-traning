@@ -180,17 +180,11 @@ Menggunakan *ngFor untuk list product
 
 Level 2 – Intermediate
 
-Membuat form registrasi (Template Driven)
-
-Membuat form login (Reactive Forms)
-
 Membuat service mengambil data dari API public
 
 Level 3 – Final Project
 
 Build aplikasi CRUD sederhana:
-
-Login page
 
 Dashboard
 
