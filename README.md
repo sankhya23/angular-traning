@@ -35,8 +35,9 @@ Node.js	18+
 Angular CLI	15+	npm install -g @angular/cli
 VSCode	—	Rekomendasi editor
 🛠️ Cara Instalasi
+
 1. Clone Repository
-git clone https://github.com/your-org/angular-training.git
+[git clone https://github.com/your-org/angular-training.git](https://github.com/sankhya23/angular-traning)
 cd angular-training
 
 2. Install Dependencies
